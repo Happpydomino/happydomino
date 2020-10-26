@@ -1,0 +1,23 @@
+body
+{
+    background-color: #000;
+    color: #fff;
+}
+.names
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.name
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    text-align: center;
+}
