@@ -1,2 +1,2 @@
-# Maksout.github.io
+# Maksout
 Maksout website
