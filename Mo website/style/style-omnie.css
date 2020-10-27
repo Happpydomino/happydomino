@@ -1,0 +1,86 @@
+body
+{
+    background-color: #202225;
+}
+.index
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: #202225;
+    background-image: url("https://www.transparenttextures.com/patterns/food.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    border: 2px solid #000;
+    text-align: center;
+    padding-top: 30px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 10px;
+}
+.title-text
+{
+    font-size: 35px;
+}
+.logo
+{
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid #fff;
+    border-radius: 82px 82px 82px 82px;
+}
+.menu
+{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+.button-index
+{
+   font-family: 'Roboto', sans-serif;
+   border: 2px solid #006600;
+   border-radius: 5px 5px 5px 5px;
+   background-color: #202225;
+   color: #006600;
+   font-size: 15px;
+   padding: 10px;
+}
+.button-index:hover
+{
+    color: #fff;
+    background-color: #006600;
+}
+.button-sm
+{
+   font-family: 'Roboto', sans-serif;
+   border: 2px solid #5E35B1;
+   border-radius: 5px 5px 5px 5px;
+   background-color: #202225;
+   color: #5E35B1;
+   font-size: 15px;
+   padding: 10px;
+}
+.button-sm:hover
+{
+    color: #fff;
+    background-color: #5E35B1
+}
+.button-discord
+{
+   font-family: 'Roboto', sans-serif;
+   border: 2px solid #6e85d3;
+   border-radius: 5px 5px 5px 5px;
+   background-color: #202225;
+   color: #6e85d3;
+   font-size: 15px;
+   padding: 10px;
+}
+.button-discord:hover
+{
+    color: #fff;
+    background-color: #6e85d3;
+}

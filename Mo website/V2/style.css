@@ -1,0 +1,33 @@
+body
+{
+background: -webkit-linear-gradient(19deg, rgb(0, 134, 255), rgb(124, 7, 255));
+background: linear-gradient(19deg, rgb(0, 134, 255), rgb(124, 7, 255));
+
+}
+.name
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 70px;
+    color: #6633CC;
+    font-family: 'Lobster', cursive;
+}
+.description
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.logo
+{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

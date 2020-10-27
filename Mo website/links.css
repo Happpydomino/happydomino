@@ -1,0 +1,62 @@
+.link-podstrony-ladny
+{
+    text-decoration:  none;
+    color: white;
+}
+.link-podstrony-przycisk
+{
+    text-decoration: none;
+    color: #000;
+}
+.link-nazwa-ladny
+{
+    text-decoration: none;
+    color: #000;
+}
+.link-box
+{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+	width: 150px;
+	height: 60px;
+}
+.link-serwer-discord
+{
+    text-decoration: none;
+    color: #fff;
+}
+.link-serwer-discord:hover
+{
+    color: #eee;
+}
+.link-profil-github
+{
+    text-decoration: none;
+    color: #fff;
+}
+.link-profil-github:hover
+{
+    color: #eee;
+}
+.link-box
+{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+	width: 150px;
+	height: 60px;
+}
+.link-box-projekty
+{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+	width: 150px;
+	height: 150px;
+}
+.link-ladny
+{
+    text-decoration:  none;
+    color: white;
+}
