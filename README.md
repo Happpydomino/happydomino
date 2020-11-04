@@ -1,2 +1,2 @@
 # Maksout
-Maksout website
+Serwer www do udostępniania plików.
